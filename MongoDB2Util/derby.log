@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2016-02-01 10:35:09.502 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.3.3.1 - (1056613): instance c013800d-0152-9c66-80b7-0000000625d0 
+on database directory D:\WCSLAB\WCDE_ENT70\db\mall   with class loader sun.misc.Launcher$AppClassLoader@4ad84ad8
+
+Database Class Loader started - derby.database.classpath='APP.StoredProcedureHelper'
+
+2016-02-01 10:35:36.618 GMT:
+Shutting down instance c013800d-0152-9c66-80b7-0000000625d0 with class loader sun.misc.Launcher$AppClassLoader@4ad84ad8 
+----------------------------------------------------------------

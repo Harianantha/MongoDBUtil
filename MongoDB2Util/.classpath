@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/IBM/WCDE_ENT70/lib/derby.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SDP/runtimes/base_v7/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/Common.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2dbgm.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2java.zip"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2jcc.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2policy.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2qgjava.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/db2umplugin.jar"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/sqlj.zip"/>
+	<classpathentry kind="lib" path="D:/IBM/SQLLIB/java/sqlj4.zip"/>
+	<classpathentry kind="lib" path="C:/Users/307105/.m2/repository/org/mongodb/mongo-java-driver/2.13.3/mongo-java-driver-2.13.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Memcached-Java-Client-master"/>
+	<classpathentry kind="lib" path="/CheckoutService-0.1.0/WebContent/WEB-INF/lib/log4j-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="/CheckoutService-0.1.0/WebContent/WEB-INF/lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,2 @@
+100 products 2 seconds
+1000 products 10356 millis
